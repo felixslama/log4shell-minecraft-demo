@@ -1,6 +1,8 @@
 # Log4Shell (CVE-2021-44228) minecraft demo
 This demo is used at education fairs to give potential future students an idea of the cybersecurity department at HTL Villach and on how everyday applications can be exploited
 
+
+**Note:** This entire demo uses Minecraft 1.8.8
 ## Attacker
 The attacker in this scenario is using the PoC by kozmer. https://github.com/kozmer/log4j-shell-poc
 All credit belongs to them. 
